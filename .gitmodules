@@ -1,3 +1,6 @@
 [submodule "nuxt"]
 	path = nuxt
 	url = https://github.com/nourseofcourse/wp-nuxt.git
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/WordPress/WordPress.git
